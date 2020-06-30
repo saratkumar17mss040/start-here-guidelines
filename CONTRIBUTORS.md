@@ -11,14 +11,19 @@
 
 -[@varunpusarla](https://github.com/varunpusarla)
 
+
 -[@seakun](https://github.com/seakun)
 -[@swatiidixit](https://github.com/swatiidixit)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
 
+-[@archanats](https://github.com/archanats)
+
 -[@DouglasKyrius](https://github.com/DouglasKyrius)
 
 -[@henrysaba](https://github.com/henrysaba)
+
+-[@shivam](https://github.com/shivam12k)
 
 -[@Abhijeet05061998](https://github.com/Abhijeet05061998)
 
@@ -35,6 +40,8 @@
 -[@haobrien](https://github.com/haobrien)
 
 -[@Emmaccen](https://github.com/Emmaccen)
+
+-[@khushi](https://github.com/khushi0302001)
 
 -[@rajindersingh751](https://github.com/rajindersingh751)
 
@@ -91,6 +98,8 @@
 -[@ArthurDoom](https://github.com/ArthurDoom)
 
 -[@iuliab](https://github.com/iuliaaabaciu)
+
+-[@Turbinya](https://github.com/Turbinya)
 
 -[@hemantgarg](https://github.com/hemant-garg)
 
@@ -335,7 +344,7 @@
 -[@hashcodepk](https://github.com/Hashcodepk)
 
 -[@uniqueayo1988](https://github.com/uniqueayo1988)
-
+-[@kumarnitinsingh](https://github.com/kumarnitinsingh/)
 -[@krishnanath](https://github.com/krishnanath)
 
 -[@nnh242](https://github.com/nnh242)
@@ -28385,6 +28394,9 @@
 
 -[@arfizurrahman](https://github.com/arfizurrahman)
 
+-[@ShineTitus](https://github.com/ShineTitus/)
+
+
 -[@KurtAg1](https://github.com/KurtAg1)
 
 -[@theloftwaves](https://github.com/theloftwaves)
@@ -28485,6 +28497,8 @@
 
 -[@acloet22](https://github.com/acloet22)
 
+-[@pradipmudi](https://github.com/pradipmudi)
+
 -[@satya-verma](https://github.com/satya-verma/)
 
 -[@hemanthhp1229](https://github.com/hemanthhp1229/)
@@ -28524,6 +28538,8 @@
 -[@DarshanR1510](https://github.com/DarshanR1510/)
 
 -[@Bovhasselt](https://github.com/Bovhasselt)
+
+-[@albendari](https://github.com/albendari)
 
 -[@kumarsaksham](https://github.com/kumarsaksham)
 
@@ -28821,6 +28837,8 @@
 -[@alericoj10](https://github.com/alericoj10)
 
 -[@Alsheikh-dev](https://github.com/Alsheikh-dev)
+
+-[@AlinaDev252] (https://github.com/AlinaDev252)
 
 -[@JoconDC](https://github.com/JoconDC)
 
